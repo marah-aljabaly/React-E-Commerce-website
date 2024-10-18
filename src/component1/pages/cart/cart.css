@@ -1,0 +1,11 @@
+body{
+  margin: 1.5rem 3rem;
+  background-color: aliceblue;
+  font-family: sans-serif, serif;
+}
+input#qty{
+  width: 40%;
+}
+.shipping{
+  font-size: 0.8rem !important; 
+}

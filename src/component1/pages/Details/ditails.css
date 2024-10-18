@@ -1,0 +1,14 @@
+img{
+  cursor: pointer;
+}
+img:hover{
+  transform: translate(-40px, -15px);
+  transition: all 1s ease;
+}
+.cardd{
+  margin: 5rem 10rem 0rem 10rem;
+}
+img:hover{
+  transform: scale(1.1) !important;
+  transition: all 1s ease;
+}
